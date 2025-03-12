@@ -1,4 +1,4 @@
-#Node.js Chat Room with Socket.io
+**#Node.js Chat Room with Socket.io**
 
 A simple real-time chat room application built with Node.js, Express, and Socket.io.
 
